@@ -10,17 +10,16 @@
 
 - ⚡ Fun fact **I love sheep.**
 
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
 <h3 align="left">2024 Portfolio Repos:</h3>
 
 - Term 1: [fruts](https://github.com/WolfOWI/fruts)
 - Term 2: [Exhibito](https://github.com/WolfOWI/exhibito)
 - Term 3: [Rosemont Estates](https://github.com/WolfOWI/rosemont-estates)
 - Term 4: [CHEAPR](https://github.com/WolfOWI/cheapr)
+
+<h3 align="left">My Stats:</h3>
+
+![Wolf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WolfOWI&show_icons=true&theme=tokyonight)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfowi&show_icons=true&locale=en&layout=compact" alt="wolfowi" /></p>
 
