@@ -10,6 +10,11 @@
 
 - ⚡ Fun fact **I love sheep.**
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 <h3 align="left">2024 Portfolio Repos:</h3>
 
 - Term 1: [fruts](https://github.com/WolfOWI/fruts)
