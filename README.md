@@ -17,10 +17,8 @@
 
 <p>Double majoring in UX Design & Interactive Development, studying part-time for 5 years (2021-2025), whilst working as a UX Designer.</p>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://i.gifer.com/origin/62/6261063bbd5c04ac47fe5cd3e8902abf_w200.gif" alt="pc" width="50" style="margin-right: 10px;" />
-  <p style="margin: 0;">My strongest skills include UX design, web development, and video editing.</p>
-</div>
+| ![PC](https://i.gifer.com/origin/62/6261063bbd5c04ac47fe5cd3e8902abf_w200.gif) | My strongest skills include UX design, web development, and video editing. |
+| :----------------------------------------------------------------------------: | :------------------------------------------------------------------------- |
 
 <div style="display: flex; align-items: center;">
   <img src="https://i.pinimg.com/originals/bf/23/08/bf2308cd01fbd8fe43bf6ac3d864c03c.gif" alt="cat working out" width="50" style="margin-right: 10px;" />
