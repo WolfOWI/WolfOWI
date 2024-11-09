@@ -17,8 +17,10 @@
 
 <p>Double majoring in UX Design & Interactive Development, studying part-time for 5 years (2021-2025), whilst working as a UX Designer.</p>
 
-| ![PC](https://i.gifer.com/origin/62/6261063bbd5c04ac47fe5cd3e8902abf_w200.gif) | My strongest skills include UX design, web development, and video editing. |
-| :----------------------------------------------------------------------------: | :------------------------------------------------------------------------- |
+<div style="display: flex; align-items: center;">
+  <img src="https://i.gifer.com/origin/62/6261063bbd5c04ac47fe5cd3e8902abf_w200.gif" alt="pc" width="50" style="margin-right: 10px;" />
+  <p style="margin: 0;">My strongest skills include UX design, web development, and video editing.</p>
+</div>
 
 <div style="display: flex; align-items: center;">
   <img src="https://i.pinimg.com/originals/bf/23/08/bf2308cd01fbd8fe43bf6ac3d864c03c.gif" alt="cat working out" width="50" style="margin-right: 10px;" />
@@ -32,14 +34,13 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://i.pinimg.com/originals/ca/05/d1/ca05d1cf1a034f9b2eafc644c102c551.gif" alt="duolingo" width="50" style="margin-right: 10px;" />
-  <p style="margin: 0;">Duolingo has kidnapped my family and won't release them unless I finish my Spanish lesson every day.</p>
+  <img style="margin: 0;">Duolingo has kidnapped my family and won't release them unless I finish my Spanish lesson every day.</p>
 </div>
 
 <p align="center"><img src="https://duolingo-stats-card.vercel.app/api?username=wolfbotha" alt="Duolingo Stats"/></p>
 
 <br />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" alt="animated-line-image-0015" style="width: 100%; height: auto;" />
 <h2 align="left" style="border: none">✦ 2024 Portfolio Repos ✦</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 16;">
@@ -56,8 +57,6 @@ A React-based web application that celebrates the love of fruit. It features int
 **Project Link:** [Fruts GitHub Repository](https://github.com/WolfOWI/fruts)
 
 <br />
-
----
 
 <br />
 
@@ -76,8 +75,6 @@ A MERN stack application, Exhibito is an art exhibitions website developed as a 
 
 <br />
 
----
-
 <br />
 
 <div style="display: flex; align-items: center; margin-bottom: 16;">
@@ -94,8 +91,6 @@ Rosemont Estates is a real estate platform designed to help users discover luxur
 **Project Link:** [Rosemont Estates GitHub Repository](https://github.com/WolfOWI/rosemont-estates)
 
 <br />
-
----
 
 <br />
 
@@ -114,7 +109,6 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 
 <br />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" alt="animated-line-image-0015" style="width: 100%; height: auto;" />
 <h2 align="left" style="border: none">✦ My Stats ✦</h2>
 
 <p align="center">
@@ -127,7 +121,6 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 
 <br />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" alt="animated-line-image-0015" style="width: 100%; height: auto;" />
 <h2 align="left" style="border: none">✦ My Skills ✦</h2>
 
 <h4 align="center">Front End</h4>
@@ -227,7 +220,6 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 
 <br />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" alt="animated-line-image-0015" style="width: 100%; height: auto;" />
 <h2 align="left" style="border: none">✦ Get in Touch ✦</h2>
 <a href="https://www.linkedin.com/in/wolfbotha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -242,4 +234,4 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 <br />
 <br />
 
-<p align="center"><img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s540x810/fe599f5ee4ddb3eba0b316cd9e84ad2244fbb9c5.gifv" alt="cat" width="200></p>
+<p align="center"> <img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s540x810/fe599f5ee4ddb3eba0b316cd9e84ad2244fbb9c5.gifv" alt="cat" width="200" /></p>
