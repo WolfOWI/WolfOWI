@@ -2,13 +2,25 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wolfowi&label=Profile%20views&color=0e75b6&style=flat" alt="wolfowi" />
-  <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=flat-square&logo=adobe&logoColor=black" alt="UX Designer" />
-  <img src="https://img.shields.io/badge/Web%20Developer-00BFFF?style=flat-square&logo=javascript&logoColor=white" alt="Front-End Developer" />
-  <img src="https://img.shields.io/badge/Video%20Editor-FF4500?style=flat-square&logo=adobe-premiere-pro&logoColor=white" alt="Video Editor" />
-  <img src="https://img.shields.io/badge/Padel%20Player-32CD32?style=flat-square&logo=padel&logoColor=white" alt="Padel Player" />
+  <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=flat-square&logo=figma&logoColor=black" alt="UX Designer" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=flat-square&logo=react&logoColor=white" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Video%20Editor-FF4500?style=flat-square&logo=video&logoColor=white" alt="Video Editor" />
+  <img src="https://img.shields.io/badge/Wannabe%20Gym%20Bro-32CD32?style=flat-square&logo=muscle&logoColor=white" alt="Wannabe Gym Bro" />
   <img src="https://img.shields.io/badge/Spanish%20Learner-FF6347?style=flat-square&logo=duolingo&logoColor=white" alt="Spanish Learner" />
-  <img src="https://img.shields.io/badge/VR%20Explorer-FF69B4?style=flat-square&logo=oculus&logoColor=white" alt="VR Explorer" />
-  <img src="https://img.shields.io/badge/Smart%20Home%20Automator-00CED1?style=flat-square&logo=home-assistant&logoColor=white" alt="Smart Home Automator" />
+  <img src="https://img.shields.io/badge/Loves%20React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Loves React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-21100255-2E8B57?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" />
+  <img src="https://img.shields.io/badge/Year-2025-FF6B6B?style=flat-square&logo=calendar&logoColor=white" alt="Year" />
+  <img src="https://img.shields.io/badge/Time%20Zone-SAST-FFA500?style=flat-square&logo=world&logoColor=white" alt="Time Zone" />
+  <img src="https://img.shields.io/badge/OS-macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="OS" />
 </p>
 
 ```jsx
@@ -50,7 +62,7 @@ export async function codingSession() {
 let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 ```
 
-<p align="center"><img src="https://duolingo-stats-card.vercel.app/api?username=wolfbotha" alt="Duolingo Stats"/></p>
+<p align="start"><img src="https://duolingo-stats-card.vercel.app/api?username=wolfbotha" alt="Duolingo Stats"/></p>
 
 ## ✦ Skills ✦
 
@@ -70,7 +82,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### Front End
 
-<p align="center">
+<p align="start">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
@@ -114,7 +126,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### Back End
 
-<p align="center">
+<p align="start">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40"/>
   </a>
@@ -149,7 +161,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### Mobile Development
 
-<p align="center">
+<p align="start">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   </a>
@@ -166,7 +178,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### Languages
 
-<p align="center">
+<p align="start">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -186,7 +198,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### State Management
 
-<p align="center">
+<p align="start">
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
   </a>
@@ -197,7 +209,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### Testing
 
-<p align="center">
+<p align="start">
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://jestjs.io/img/jest.png" alt="Jest" width="40" height="40"/>
   </a>
@@ -214,7 +226,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### Desktop Development
 
-<p align="center">
+<p align="start">
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
   </a>
@@ -222,7 +234,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### Deployment
 
-<p align="center">
+<p align="start">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -239,7 +251,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 ### Software & Tools
 
-<p align="center">
+<p align="start">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
@@ -348,11 +360,11 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 
 ## ✦ My Stats ✦
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=WolfOWI&show_icons=true&theme=tokyonight" alt="Wolf's GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfowi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -366,7 +378,7 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
   </a>
 </p>
 
-<p align="center"><img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s540x810/fe599f5ee4ddb3eba0b316cd9e84ad2244fbb9c5.gifv" alt="cat" width="200" /></p>
+<p align="start"><img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s540x810/fe599f5ee4ddb3eba0b316cd9e84ad2244fbb9c5.gifv" alt="cat" width="200" /></p>
 
 <!-- <p>Double majoring in UX Design & Interactive Development, studying part-time for 5 years (2021-2025), whilst working as a UX Designer.</p>
 
