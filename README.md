@@ -106,6 +106,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 # ✦ Tech Stack Experience ✦
 
+<!-- OLD IMAGE-BASED TECH STACK (COMMENTED OUT)
 ## Front End
 
 <p align="start">
@@ -232,7 +233,37 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
     <img src="https://zustand-demo.pmnd.rs/favicon.ico" alt="Zustand" width="40" height="40"/>
   </a>
 </p>
+-->
 
+## Languages & Frameworks
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## Databases & Data Management
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![React Context](https://img.shields.io/badge/React_Context-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![GeoFire](https://img.shields.io/badge/GeoFire-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## UI/UX & Styling
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Gluestack UI](https://img.shields.io/badge/Gluestack_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) ![Headless UI](https://img.shields.io/badge/Headless_UI-66E3FF?style=for-the-badge&logo=headlessui&logoColor=black) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Tools & Libraries
+
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) ![Lottie](https://img.shields.io/badge/Lottie-00D4FF?style=for-the-badge&logo=lottie&logoColor=white) ![PDFMake](https://img.shields.io/badge/PDFMake-FF0000?style=for-the-badge&logo=pdf&logoColor=white) ![MUI X Charts](https://img.shields.io/badge/MUI_X_Charts-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![Material-UI Icons](https://img.shields.io/badge/Material_UI_Icons-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![LDRS](https://img.shields.io/badge/LDRS-FF6B6B?style=for-the-badge&logo=loading&logoColor=white) ![React Animated Cursor](https://img.shields.io/badge/Animated_Cursor-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Day.js](https://img.shields.io/badge/Day.js-FF6B6B?style=for-the-badge&logo=dayjs&logoColor=white) ![Validator.js](https://img.shields.io/badge/Validator.js-FF6B6B?style=for-the-badge&logo=javascript&logoColor=black) ![MailKit](https://img.shields.io/badge/MailKit-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![RestSharp](https://img.shields.io/badge/RestSharp-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+## Testing & Development
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Coverlet](https://img.shields.io/badge/Coverlet-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![BCrypt](https://img.shields.io/badge/BCrypt-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge&logo=cors&logoColor=white)
+
+## Mobile & Location Services
+
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native Maps](https://img.shields.io/badge/React_Native_Maps-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Expo Location](https://img.shields.io/badge/Expo_Location-1B1F23?style=for-the-badge&logo=expo&logoColor=white) ![Google Places API](https://img.shields.io/badge/Google_Places_API-4285F4?style=for-the-badge&logo=google&logoColor=white) ![React Native Wheel Color Picker](https://img.shields.io/badge/Color_Picker-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+## Productivity & Design
+
+![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+<!-- OLD FORMAT SECTIONS (COMMENTED OUT - REPLACED WITH BADGE FORMAT ABOVE)
 ## Testing
 
 <p align="start">
@@ -291,6 +322,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
   </a>
 </p>
+-->
 
 <br />
 <br />
@@ -420,13 +452,16 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 
 # ✦ Get in Touch ✦
 
-<a href="https://www.linkedin.com/in/wolfbotha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:wolfmeyerbotha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/linkedin--v1.png" alt="LinkedIn" width="30"/><br/>
+    <b>LinkedIn</b><br/> <a href="https://www.linkedin.com/in/wolfbotha/" target="_blank">wolfbotha</a>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="30"/><br/>
+    <b>Email</b><br/> <a href="mailto:wolfmeyerbotha@gmail.com">wolfmeyerbotha@gmail.com</a>
+  </p>
+</div>
 
 <p align="start"><img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s540x810/fe599f5ee4ddb3eba0b316cd9e84ad2244fbb9c5.gifv" alt="cat" width="200" /></p>
 
