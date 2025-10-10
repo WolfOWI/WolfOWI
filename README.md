@@ -72,26 +72,31 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 ### **UX Design**
 
 ![100%](https://geps.dev/progress/100)
+
 <span style="color: #666;">Strongest</span>
 
 ### **Frontend Development**
 
 ![75%](https://geps.dev/progress/75)
+
 <span style="color: #666;">Strong</span>
 
 ### **Backend Development**
 
 ![68%](https://geps.dev/progress/68)
+
 <span style="color: #666;">Competent</span>
 
 ### **Testing**
 
 ![53%](https://geps.dev/progress/53)
+
 <span style="color: #666;">Developing</span>
 
 ### **Video Editing**
 
 ![83%](https://geps.dev/progress/83)
+
 <span style="color: #666;">Strong</span>
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative skill levels, not absolute proficiency</p>
