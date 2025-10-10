@@ -277,7 +277,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 # ✦ 2025 Portfolio Repos ✦
 
-## [Coriander HR](https://github.com/WolfOWI/coriander) (Semester 1.1 & 1.2)
+## [Coriander HR](https://github.com/WolfOWI/coriander) (Semester 1)
 
 [![Coriander HR](coriander_banner.png)](https://github.com/WolfOWI/coriander)
 
@@ -289,7 +289,7 @@ A comprehensive Human Resources Management System built with Electron, React, an
 
 <br />
 
-## [CoriCore API](https://github.com/WolfOWI/coriander-backend) (Semester 1.1 & 1.2)
+## [CoriCore API](https://github.com/WolfOWI/coriander-backend) (Semester 1)
 
 [![CoriCore API](coriCore_banner.png)](https://github.com/WolfOWI/coriander-backend)
 
@@ -301,7 +301,7 @@ The RESTful API backend for the Coriander HR Management System built with ASP.NE
 
 <br />
 
-## [Nebulog](https://github.com/WolfOWI/nebulog) (Semester 1.3)
+## [Nebulog](https://github.com/WolfOWI/nebulog) (Semester 2.1)
 
 [![Nebulog](nebulog_banner.png)](https://github.com/WolfOWI/nebulog)
 
@@ -313,7 +313,7 @@ A location-based reflection platform where thoughts become part of a digital cos
 
 <br />
 
-## [QuizQuest](https://github.com/WolfOWI/quizQuest) (Semester 1.4)
+## [QuizQuest](https://github.com/WolfOWI/quizQuest) (Semester 2.2)
 
 [![QuizQuest](quizQuest_banner.png)](https://github.com/WolfOWI/quizQuest)
 
