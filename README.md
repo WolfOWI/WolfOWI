@@ -1,4 +1,4 @@
-<img src="banner2025.png" alt="banner" />
+![banner](banner2025.png)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wolfowi&label=Profile%20views&color=0e75b6&style=flat" alt="wolfowi" />
@@ -52,27 +52,24 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 <p align="center"><img src="https://duolingo-stats-card.vercel.app/api?username=wolfbotha" alt="Duolingo Stats"/></p>
 
-<h2 align="left" style="border: none">✦ Skills ✦</h2>
+## ✦ Skills ✦
 
-<div align="left">
+**UX Design** ![100%](https://geps.dev/progress/100) <span style="color: #666;">Strongest</span>
 
-**UX Design** - Strongest ![100%](https://geps.dev/progress/100)
+**Frontend Development** ![75%](https://geps.dev/progress/75) <span style="color: #666;">Strong</span>
 
-**Frontend Development** - Strong ![75%](https://geps.dev/progress/75)
+**Backend Development** ![68%](https://geps.dev/progress/68) <span style="color: #666;">Competent</span>
 
-**Backend Development** - Competent ![68%](https://geps.dev/progress/68)
+**Testing** ![53%](https://geps.dev/progress/53) <span style="color: #666;">Developing</span>
 
-**Testing** - Developing ![53%](https://geps.dev/progress/53)
-
-**Video Editing** - Strong ![83%](https://geps.dev/progress/83)
-
-</div>
+**Video Editing** ![83%](https://geps.dev/progress/83) <span style="color: #666;">Strong</span>
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative skill levels, not absolute proficiency</p>
 
-<h2 align="left" style="border: none">✦ Tech Stack Experience ✦</h2>
+## ✦ Tech Stack Experience ✦
 
-<h4 align="center">Front End</h4>
+### Front End
+
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -88,9 +85,6 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
     <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="40" height="40"/>
-  </a>
-  <a href="https://lottiefiles.com/" target="_blank" rel="noreferrer">
-    <img src="https://lottiefiles.com/images/lottie-logo.svg" alt="Lottie Animations" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
@@ -116,21 +110,10 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
     <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png" alt="React Router" height="30"/>
   </a>
-  <a href="https://github.com/everweij/react-reusables" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Reusables" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
 </p>
 
-<h4 align="center">Back End</h4>
+### Back End
+
 <p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40"/>
@@ -140,9 +123,6 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
   <a href="https://developers.google.com/identity/protocols/oauth2" target="_blank" rel="noreferrer">
     <img src="https://developers.google.com/identity/images/g-logo.png" alt="Google OAuth" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/BcryptNet/bcrypt.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/BcryptNet/bcrypt.net/master/bcrypt-logo.png" alt="BCrypt" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -167,38 +147,25 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-<h4 align="center">Mobile Development</h4>
+### Mobile Development
+
 <p align="center">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   </a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/expo/expo/main/apps/expo/static/images/expo-logo.svg" alt="Expo" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" alt="Expo" width="40" height="40"/>
   </a>
   <a href="https://www.nativewind.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marklawlor/nativewind/main/assets/logo-light.svg" alt="NativeWind" width="40" height="40"/>
-  </a>
-  <a href="https://ui.gluestack.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gluestack/gluestack-ui/main/packages/gluestack-ui/logo.svg" alt="GlueStack UI" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="NativeWind" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/docs/context.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Context" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/docs/auth" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Auth" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firestore" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/react-native-maps/react-native-maps" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/react-native-maps/react-native-maps/main/docs/assets/logo.png" alt="React Native Maps" width="40" height="40"/>
-  </a>
 </p>
 
-<h4 align="center">Languages</h4>
+### Languages
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -217,7 +184,8 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-<h4 align="center">State Management</h4>
+### State Management
+
 <p align="center">
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
@@ -227,7 +195,8 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-<h4 align="center">Testing</h4>
+### Testing
+
 <p align="center">
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://jestjs.io/img/jest.png" alt="Jest" width="40" height="40"/>
@@ -236,30 +205,26 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
     <img src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" width="40" height="40"/>
   </a>
   <a href="https://xunit.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/xunit/xunit/main/logo/logo.png" alt="xUnit" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="xUnit" width="40" height="40"/>
   </a>
   <a href="https://github.com/moq/moq4" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/moq/moq4/main/docs/images/moq-logo.png" alt="Moq" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/coverlet-coverage/coverlet" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/coverlet-coverage/coverlet/main/docs/images/coverlet-logo.png" alt="Coverlet" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Moq" width="40" height="40"/>
   </a>
 </p>
 
-<h4 align="center">Desktop Development</h4>
+### Desktop Development
+
 <p align="center">
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
   </a>
 </p>
 
-<h4 align="center">Deployment</h4>
+### Deployment
+
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://render.com/images/brand/render-logo.png" alt="Render" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40"/>
@@ -272,7 +237,8 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-<h4 align="center">Software & Tools</h4>
+### Software & Tools
+
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -283,21 +249,16 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   <a href="https://www.apple.com/final-cut-pro/" target="_blank" rel="noreferrer">
     <img src="https://static.wikia.nocookie.net/ipod/images/4/48/Final_Cut_Pro_10.5_icon.png/revision/latest?cb=20210301093845" alt="Final Cut Pro" width="40" height="40"/>
   </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce962d15116/canva-logo.png" alt="Canva" width="40" height="40"/>
-  </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
   </a>
 </p>
 
-<br />
+## ✦ 2025 Portfolio Repos ✦
 
-<h2 align="left" style="border: none">✦ 2025 Portfolio Repos ✦</h2>
+### Term 1 & 2: [Coriander HR](https://github.com/WolfOWI/coriander)
 
-  <h3 style="margin: 0;">Term 1 & 2: <a href="https://github.com/WolfOWI/coriander">Coriander HR</a></h3>
-
-<a href="https://github.com/WolfOWI/coriander"><img src="coriander_banner.png" alt="coriander banner" w="full"/></a>
+[![Coriander HR](coriander_banner.png)](https://github.com/WolfOWI/coriander)
 
 A comprehensive Human Resources Management System built with Electron, React, and TypeScript. This desktop application provides a smooth and user-friendly experience for both employees and administrators to manage various HR functions including leave requests, meeting scheduling, equipment management, and performance reviews.
 
@@ -305,13 +266,9 @@ A comprehensive Human Resources Management System built with Electron, React, an
 
 [**View Repository**](https://github.com/WolfOWI/coriander)
 
-<br />
+### Term 1 & 2: [CoriCore API](https://github.com/WolfOWI/coriander-backend)
 
-<br />
-
-  <h3 style="margin: 0;">Term 1 & 2: <a href="https://github.com/WolfOWI/coriander-backend">CoriCore API</a></h3>
-
-<a href="https://github.com/WolfOWI/coriander-backend"><img src="coriCore_banner.png" alt="coriCore banner" w="full"/></a>
+[![CoriCore API](coriCore_banner.png)](https://github.com/WolfOWI/coriander-backend)
 
 The RESTful API backend for the Coriander HR Management System built with ASP.NET Core and PostgreSQL. This server-side infrastructure provides simple yet efficient endpoints for all HR operations of Coriander, is fully documented with Swagger specs and includes extensive unit & integration tests.
 
@@ -319,13 +276,9 @@ The RESTful API backend for the Coriander HR Management System built with ASP.NE
 
 [**View Repository**](https://github.com/WolfOWI/coriander-backend)
 
-<br />
+### Term 3: [Nebulog](https://github.com/WolfOWI/nebulog)
 
-<br />
-
-  <h3 style="margin: 0;">Term 3: <a href="https://github.com/WolfOWI/nebulog">Nebulog</a></h3>
-
-<a href="https://github.com/WolfOWI/nebulog"><img src="nebulog_banner.png" alt="nebulog banner" w="full"/></a>
+[![Nebulog](nebulog_banner.png)](https://github.com/WolfOWI/nebulog)
 
 A location-based reflection platform where thoughts become part of a digital cosmos. Built as a React Native mobile app, it allows users to launch their thoughts on an interactive map, creating a constellation of thoughts that can be discovered and echoed by others. Centred around the theme of space, Nebulog aims to encourage users to build the habit of self-reflection.
 
@@ -333,13 +286,9 @@ A location-based reflection platform where thoughts become part of a digital cos
 
 [**View Repository**](https://github.com/WolfOWI/nebulog)
 
-<br />
+### Term 4: [QuizQuest](https://github.com/WolfOWI/quizQuest)
 
-<br />
-
-  <h3 style="margin: 0;">Term 4: <a href="https://github.com/WolfOWI/quizQuest">QuizQuest</a></h3>
-
-<a href="https://github.com/WolfOWI/quizQuest"><img src="quizQuest_banner.png" alt="quizQuest banner" w="full"/></a>
+[![QuizQuest](quizQuest_banner.png)](https://github.com/WolfOWI/quizQuest)
 
 CURRENTLY IN DEVELOPMENT
 
@@ -347,15 +296,11 @@ CURRENTLY IN DEVELOPMENT
 
 [**View Repository**](https://github.com/WolfOWI/quizQuest)
 
-<br />
+## ✦ 2024 Portfolio Repos ✦
 
-<br />
+### Term 1: [fruts](https://github.com/WolfOWI/fruts) (2024)
 
-<h2 align="left" style="border: none">✦ 2024 Portfolio Repos ✦</h2>
-
-  <h3 style="margin: 0;">Term 1: <a href="https://github.com/WolfOWI/fruts">fruts</a> (2024)</h3>
-
-<a href="https://github.com/WolfOWI/fruts"><img src="fruts_banner.png" alt="fruts banner" w="full"/></a>
+[![fruts](fruts_banner.png)](https://github.com/WolfOWI/fruts)
 
 A React-based web application that celebrates the love of fruit. It features interactive charts powered by Chart.js to visualise various fruit-related data, providing users with an engaging and informative experience.
 
@@ -365,13 +310,9 @@ A React-based web application that celebrates the love of fruit. It features int
 
 [**View Repository (2024)**](https://github.com/WolfOWI/fruts)
 
-<br />
+### Term 2: [Exhibito](https://github.com/WolfOWI/exhibito) (2024)
 
-<br />
-
-  <h3 style="margin: 0;">Term 2: <a href="https://github.com/WolfOWI/exhibito">Exhibito</a> (2024)</h3>
-
-<a href="https://github.com/WolfOWI/exhibito"><img src="exhibito_banner.png" alt="exhibito banner" w="full"/></a>
+[![Exhibito](exhibito_banner.png)](https://github.com/WolfOWI/exhibito)
 
 A MERN stack application, Exhibito is an art exhibitions website developed as a 4-team group project. It offers full CRUD (Create, Read, Update, Delete) functionality, allowing art houses to manage exhibitions and users to explore and interact with various art events.
 
@@ -381,13 +322,9 @@ A MERN stack application, Exhibito is an art exhibitions website developed as a 
 
 [**View Repository (2024)**](https://github.com/WolfOWI/exhibito)
 
-<br />
+### Term 3: [Rosemont Estates](https://github.com/WolfOWI/rosemont-estates) (2024)
 
-<br />
-
-<h3 style="margin: 0;">Term 3: <a href="https://github.com/WolfOWI/rosemont-estates">Rosemont Estates</a> (2024)</h3>
-
-<a href="https://github.com/WolfOWI/rosemont-estates"><img src="rosemont_banner.png" alt="rosemont banner" w="full"/></a>
+[![Rosemont Estates](rosemont_banner.png)](https://github.com/WolfOWI/rosemont-estates)
 
 Rosemont Estates is a real estate platform designed to help users discover luxury dream homes. It features comprehensive property listings with filtering options, detailed property pages, and administrative dashboards for managing listings and client interactions.
 
@@ -397,13 +334,9 @@ Rosemont Estates is a real estate platform designed to help users discover luxur
 
 [**View Repository (2024)**](https://github.com/WolfOWI/rosemont-estates)
 
-<br />
+### Term 4: [CHEAPR](https://github.com/WolfOWI/cheapr) (2024)
 
-<br />
-
-<h3 style="margin: 0;">Term 4: <a href="https://github.com/WolfOWI/cheapr">CHEAPR</a> (2024)</h3>
-
-<a href="https://github.com/WolfOWI/cheapr"><img src="cheapr_banner.png" alt="cheapr banner" w="full"/></a>
+[![CHEAPR](cheapr_banner.png)](https://github.com/WolfOWI/cheapr)
 
 CHEAPR is a FERN-stack web application aimed at helping users shop smarter by comparing prices of 4 x South African grocery store products. It provides a platform for users to find the best deals, save money, and plan their shopping efficiently.
 
@@ -413,9 +346,7 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 
 [**View Repository (2024)**](https://github.com/WolfOWI/cheapr)
 
-<br />
-
-<h2 align="left" style="border: none">✦ My Stats ✦</h2>
+## ✦ My Stats ✦
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WolfOWI&show_icons=true&theme=tokyonight" alt="Wolf's GitHub Stats" />
@@ -425,11 +356,8 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfowi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<br />
+## ✦ Get in Touch ✦
 
-<br />
-
-<h2 align="left" style="border: none">✦ Get in Touch ✦</h2>
 <a href="https://www.linkedin.com/in/wolfbotha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -438,12 +366,7 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
   </a>
 </p>
 
-<br />
-<br />
-<br />
-<br />
-
-<p align="center"> <img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s540x810/fe599f5ee4ddb3eba0b316cd9e84ad2244fbb9c5.gifv" alt="cat" width="200" /></p>
+<p align="center"><img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s540x810/fe599f5ee4ddb3eba0b316cd9e84ad2244fbb9c5.gifv" alt="cat" width="200" /></p>
 
 <!-- <p>Double majoring in UX Design & Interactive Development, studying part-time for 5 years (2021-2025), whilst working as a UX Designer.</p>
 
