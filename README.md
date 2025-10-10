@@ -66,23 +66,21 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 <br />
 <br />
-<br />
 
 # ✦ Skills ✦
 
-**UX Design** ![100%](https://geps.dev/progress/100) <span style="color: #666;">Strongest</span>
+<p style="font-size: 1.1em; line-height: 1.6;">**UX Design** ![100%](https://geps.dev/progress/100) <span style="color: #666;">Strongest</span></p>
 
-**Frontend Development** ![75%](https://geps.dev/progress/75) <span style="color: #666;">Strong</span>
+<p style="font-size: 1.1em; line-height: 1.6;">**Frontend Development** ![75%](https://geps.dev/progress/75) <span style="color: #666;">Strong</span></p>
 
-**Backend Development** ![68%](https://geps.dev/progress/68) <span style="color: #666;">Competent</span>
+<p style="font-size: 1.1em; line-height: 1.6;">**Backend Development** ![68%](https://geps.dev/progress/68) <span style="color: #666;">Competent</span></p>
 
-**Testing** ![53%](https://geps.dev/progress/53) <span style="color: #666;">Developing</span>
+<p style="font-size: 1.1em; line-height: 1.6;">**Testing** ![53%](https://geps.dev/progress/53) <span style="color: #666;">Developing</span></p>
 
-**Video Editing** ![83%](https://geps.dev/progress/83) <span style="color: #666;">Strong</span>
+<p style="font-size: 1.1em; line-height: 1.6;">**Video Editing** ![83%](https://geps.dev/progress/83) <span style="color: #666;">Strong</span></p>
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative skill levels, not absolute proficiency</p>
 
-<br />
 <br />
 <br />
 
@@ -276,7 +274,6 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 <br />
 <br />
-<br />
 
 # ✦ 2025 Portfolio Repos ✦
 
@@ -284,52 +281,48 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![Coriander HR](coriander_banner.png)](https://github.com/WolfOWI/coriander)
 
-A comprehensive Human Resources Management System built with Electron, React, and TypeScript. This desktop application provides a smooth and user-friendly experience for both employees and administrators to manage various HR functions including leave requests, meeting scheduling, equipment management, and performance reviews.
+<p style="font-size: 1.1em; line-height: 1.6;">A comprehensive Human Resources Management System built with Electron, React, and TypeScript. This desktop application provides a smooth and user-friendly experience for both employees and administrators to manage various HR functions including leave requests, meeting scheduling, equipment management, and performance reviews.</p>
 
 **Technologies Used:** React, Electron, TypeScript, Vite, Ant Design, Tailwind CSS, Material-UI Icons, MUI X Charts, Google OAuth, Axios, Day.js, Jest, React Testing Library, PDFMake, Lottie React
 
 [**View Repository**](https://github.com/WolfOWI/coriander)
 
 <br />
-<br />
 
 ## [CoriCore API](https://github.com/WolfOWI/coriander-backend) (Semester 1.1 & 1.2)
 
 [![CoriCore API](coriCore_banner.png)](https://github.com/WolfOWI/coriander-backend)
 
-The RESTful API backend for the Coriander HR Management System built with ASP.NET Core and PostgreSQL. This server-side infrastructure provides simple yet efficient endpoints for all HR operations of Coriander, is fully documented with Swagger specs and includes extensive unit & integration tests.
+<p style="font-size: 1.1em; line-height: 1.6;">The RESTful API backend for the Coriander HR Management System built with ASP.NET Core and PostgreSQL. This server-side infrastructure provides simple yet efficient endpoints for all HR operations of Coriander, is fully documented with Swagger specs and includes extensive unit & integration tests.</p>
 
 **Technologies Used:** ASP.NET Core 9.0, C#, PostgreSQL, Entity Framework Core 9.0, Npgsql, JWT Bearer Authentication, Google OAuth 2.0, BCrypt.Net, MailKit, RestSharp, Swagger/OpenAPI, xUnit, Moq, Coverlet, Docker
 
 [**View Repository**](https://github.com/WolfOWI/coriander-backend)
 
 <br />
-<br />
 
 ## [Nebulog](https://github.com/WolfOWI/nebulog) (Semester 1.3)
 
 [![Nebulog](nebulog_banner.png)](https://github.com/WolfOWI/nebulog)
 
-A location-based reflection platform where thoughts become part of a digital cosmos. Built as a React Native mobile app, it allows users to launch their thoughts on an interactive map, creating a constellation of thoughts that can be discovered and echoed by others. Centred around the theme of space, Nebulog aims to encourage users to build the habit of self-reflection.
+<p style="font-size: 1.1em; line-height: 1.6;">A location-based reflection platform where thoughts become part of a digital cosmos. Built as a React Native mobile app, it allows users to launch their thoughts on an interactive map, creating a constellation of thoughts that can be discovered and echoed by others. Centred around the theme of space, Nebulog aims to encourage users to build the habit of self-reflection.</p>
 
 **Technologies Used:** React Native, Expo, TypeScript, NativeWind, Gluestack UI, React Context API, Firebase, Firebase Auth, Firestore, React Native Maps, Expo Location, Google Places API, Lottie React Native, Expo Vector Icons, Validator.js, Day.js, React Native Wheel Color Picker, GeoFire
 
 [**View Repository**](https://github.com/WolfOWI/nebulog)
 
 <br />
-<br />
 
 ## [QuizQuest](https://github.com/WolfOWI/quizQuest) (Semester 1.4)
 
 [![QuizQuest](quizQuest_banner.png)](https://github.com/WolfOWI/quizQuest)
 
-CURRENTLY IN DEVELOPMENT
+<p style="font-size: 1.1em; line-height: 1.6;">CURRENTLY IN DEVELOPMENT</p>
 
 **Technologies Used:** React Native, Expo, TypeScript (IN PROGRESS)
 
 [**View Repository**](https://github.com/WolfOWI/quizQuest)
 
-<br />
 <br />
 <br />
 
@@ -339,7 +332,7 @@ CURRENTLY IN DEVELOPMENT
 
 [![fruts](fruts_banner.png)](https://github.com/WolfOWI/fruts)
 
-A React-based web application that celebrates the love of fruit. It features interactive charts powered by Chart.js to visualise various fruit-related data, providing users with an engaging and informative experience.
+<p style="font-size: 1.1em; line-height: 1.6;">A React-based web application that celebrates the love of fruit. It features interactive charts powered by Chart.js to visualise various fruit-related data, providing users with an engaging and informative experience.</p>
 
 **Technologies Used:** React, Express JS, Node JS, Chart.js React Chart.js 2, Axios, React Router, Tailwind CSS, Headless UI, LDRS, React Animated Cursor.
 
@@ -348,13 +341,12 @@ A React-based web application that celebrates the love of fruit. It features int
 [**View Repository (2024)**](https://github.com/WolfOWI/fruts)
 
 <br />
-<br />
 
 ## [Exhibito](https://github.com/WolfOWI/exhibito) (Semester 1.2 - 2024)
 
 [![Exhibito](exhibito_banner.png)](https://github.com/WolfOWI/exhibito)
 
-A MERN stack application, Exhibito is an art exhibitions website developed as a 4-team group project. It offers full CRUD (Create, Read, Update, Delete) functionality, allowing art houses to manage exhibitions and users to explore and interact with various art events.
+<p style="font-size: 1.1em; line-height: 1.6;">A MERN stack application, Exhibito is an art exhibitions website developed as a 4-team group project. It offers full CRUD (Create, Read, Update, Delete) functionality, allowing art houses to manage exhibitions and users to explore and interact with various art events.</p>
 
 **Technologies Used:** MongoDB, Express JS, React, Node JS, Axios, Tailwind CSS, React Bootstrap, React Router, JWT, BCrypt, CORS.
 
@@ -363,13 +355,12 @@ A MERN stack application, Exhibito is an art exhibitions website developed as a 
 [**View Repository (2024)**](https://github.com/WolfOWI/exhibito)
 
 <br />
-<br />
 
 ## [Rosemont Estates](https://github.com/WolfOWI/rosemont-estates) (Semester 1.3 - 2024)
 
 [![Rosemont Estates](rosemont_banner.png)](https://github.com/WolfOWI/rosemont-estates)
 
-Rosemont Estates is a real estate platform designed to help users discover luxury dream homes. It features comprehensive property listings with filtering options, detailed property pages, and administrative dashboards for managing listings and client interactions.
+<p style="font-size: 1.1em; line-height: 1.6;">Rosemont Estates is a real estate platform designed to help users discover luxury dream homes. It features comprehensive property listings with filtering options, detailed property pages, and administrative dashboards for managing listings and client interactions.</p>
 
 **Technologies Used:** React, React Router, PHP, MySQL, Node JS, Leaflet Geosearch, Tailwind CSS, Chakra UI, Material UI Icons
 
@@ -378,13 +369,12 @@ Rosemont Estates is a real estate platform designed to help users discover luxur
 [**View Repository (2024)**](https://github.com/WolfOWI/rosemont-estates)
 
 <br />
-<br />
 
 ## [CHEAPR](https://github.com/WolfOWI/cheapr) (Semester 1.4 - 2024)
 
 [![CHEAPR](cheapr_banner.png)](https://github.com/WolfOWI/cheapr)
 
-CHEAPR is a FERN-stack web application aimed at helping users shop smarter by comparing prices of 4 x South African grocery store products. It provides a platform for users to find the best deals, save money, and plan their shopping efficiently.
+<p style="font-size: 1.1em; line-height: 1.6;">CHEAPR is a FERN-stack web application aimed at helping users shop smarter by comparing prices of 4 x South African grocery store products. It provides a platform for users to find the best deals, save money, and plan their shopping efficiently.</p>
 
 **Technologies Used:** Firebase, Express JS, React, Node JS, React Router, Axios, Tailwind CSS, React Bootstrap
 
@@ -392,7 +382,6 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 
 [**View Repository (2024)**](https://github.com/WolfOWI/cheapr)
 
-<br />
 <br />
 <br />
 
@@ -406,7 +395,6 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfowi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<br />
 <br />
 <br />
 
