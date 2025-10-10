@@ -54,22 +54,17 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 <h2 align="left" style="border: none">✦ Skills ✦</h2>
 
-<div align="center">
+<div align="left">
 
-**UX Design** - Strongest  
-![100%](https://geps.dev/progress/100)
+**UX Design** - Strongest ![100%](https://geps.dev/progress/100)
 
-**Frontend Development** - Strong  
-![75%](https://geps.dev/progress/75)
+**Frontend Development** - Strong ![75%](https://geps.dev/progress/75)
 
-**Backend Development** - Competent  
-![68%](https://geps.dev/progress/68)
+**Backend Development** - Competent ![68%](https://geps.dev/progress/68)
 
-**Testing** - Developing  
-![53%](https://geps.dev/progress/53)
+**Testing** - Developing ![53%](https://geps.dev/progress/53)
 
-**Video Editing** - Strong  
-![83%](https://geps.dev/progress/83)
+**Video Editing** - Strong ![83%](https://geps.dev/progress/83)
 
 </div>
 
