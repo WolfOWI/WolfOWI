@@ -69,15 +69,15 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 # ✦ Skills ✦
 
-<p style="font-size: 1.1em; line-height: 1.6;">**UX Design** ![100%](https://geps.dev/progress/100) <span style="color: #666;">Strongest</span></p>
+**UX Design** ![100%](https://geps.dev/progress/100) <span style="color: #666;">Strongest</span>
 
-<p style="font-size: 1.1em; line-height: 1.6;">**Frontend Development** ![75%](https://geps.dev/progress/75) <span style="color: #666;">Strong</span></p>
+**Frontend Development** ![75%](https://geps.dev/progress/75) <span style="color: #666;">Strong</span>
 
-<p style="font-size: 1.1em; line-height: 1.6;">**Backend Development** ![68%](https://geps.dev/progress/68) <span style="color: #666;">Competent</span></p>
+**Backend Development** ![68%](https://geps.dev/progress/68) <span style="color: #666;">Competent</span>
 
-<p style="font-size: 1.1em; line-height: 1.6;">**Testing** ![53%](https://geps.dev/progress/53) <span style="color: #666;">Developing</span></p>
+**Testing** ![53%](https://geps.dev/progress/53) <span style="color: #666;">Developing</span>
 
-<p style="font-size: 1.1em; line-height: 1.6;">**Video Editing** ![83%](https://geps.dev/progress/83) <span style="color: #666;">Strong</span></p>
+**Video Editing** ![83%](https://geps.dev/progress/83) <span style="color: #666;">Strong</span>
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative skill levels, not absolute proficiency</p>
 
@@ -281,7 +281,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![Coriander HR](coriander_banner.png)](https://github.com/WolfOWI/coriander)
 
-<p style="font-size: 1.1em; line-height: 1.6;">A comprehensive Human Resources Management System built with Electron, React, and TypeScript. This desktop application provides a smooth and user-friendly experience for both employees and administrators to manage various HR functions including leave requests, meeting scheduling, equipment management, and performance reviews.</p>
+A comprehensive Human Resources Management System built with Electron, React, and TypeScript. This desktop application provides a smooth and user-friendly experience for both employees and administrators to manage various HR functions including leave requests, meeting scheduling, equipment management, and performance reviews.
 
 **Technologies Used:** React, Electron, TypeScript, Vite, Ant Design, Tailwind CSS, Material-UI Icons, MUI X Charts, Google OAuth, Axios, Day.js, Jest, React Testing Library, PDFMake, Lottie React
 
@@ -293,7 +293,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![CoriCore API](coriCore_banner.png)](https://github.com/WolfOWI/coriander-backend)
 
-<p style="font-size: 1.1em; line-height: 1.6;">The RESTful API backend for the Coriander HR Management System built with ASP.NET Core and PostgreSQL. This server-side infrastructure provides simple yet efficient endpoints for all HR operations of Coriander, is fully documented with Swagger specs and includes extensive unit & integration tests.</p>
+The RESTful API backend for the Coriander HR Management System built with ASP.NET Core and PostgreSQL. This server-side infrastructure provides simple yet efficient endpoints for all HR operations of Coriander, is fully documented with Swagger specs and includes extensive unit & integration tests.
 
 **Technologies Used:** ASP.NET Core 9.0, C#, PostgreSQL, Entity Framework Core 9.0, Npgsql, JWT Bearer Authentication, Google OAuth 2.0, BCrypt.Net, MailKit, RestSharp, Swagger/OpenAPI, xUnit, Moq, Coverlet, Docker
 
@@ -305,7 +305,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![Nebulog](nebulog_banner.png)](https://github.com/WolfOWI/nebulog)
 
-<p style="font-size: 1.1em; line-height: 1.6;">A location-based reflection platform where thoughts become part of a digital cosmos. Built as a React Native mobile app, it allows users to launch their thoughts on an interactive map, creating a constellation of thoughts that can be discovered and echoed by others. Centred around the theme of space, Nebulog aims to encourage users to build the habit of self-reflection.</p>
+A location-based reflection platform where thoughts become part of a digital cosmos. Built as a React Native mobile app, it allows users to launch their thoughts on an interactive map, creating a constellation of thoughts that can be discovered and echoed by others. Centred around the theme of space, Nebulog aims to encourage users to build the habit of self-reflection.
 
 **Technologies Used:** React Native, Expo, TypeScript, NativeWind, Gluestack UI, React Context API, Firebase, Firebase Auth, Firestore, React Native Maps, Expo Location, Google Places API, Lottie React Native, Expo Vector Icons, Validator.js, Day.js, React Native Wheel Color Picker, GeoFire
 
@@ -317,7 +317,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![QuizQuest](quizQuest_banner.png)](https://github.com/WolfOWI/quizQuest)
 
-<p style="font-size: 1.1em; line-height: 1.6;">CURRENTLY IN DEVELOPMENT</p>
+CURRENTLY IN DEVELOPMENT
 
 **Technologies Used:** React Native, Expo, TypeScript (IN PROGRESS)
 
@@ -332,7 +332,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![fruts](fruts_banner.png)](https://github.com/WolfOWI/fruts)
 
-<p style="font-size: 1.1em; line-height: 1.6;">A React-based web application that celebrates the love of fruit. It features interactive charts powered by Chart.js to visualise various fruit-related data, providing users with an engaging and informative experience.</p>
+A React-based web application that celebrates the love of fruit. It features interactive charts powered by Chart.js to visualise various fruit-related data, providing users with an engaging and informative experience.
 
 **Technologies Used:** React, Express JS, Node JS, Chart.js React Chart.js 2, Axios, React Router, Tailwind CSS, Headless UI, LDRS, React Animated Cursor.
 
@@ -346,7 +346,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![Exhibito](exhibito_banner.png)](https://github.com/WolfOWI/exhibito)
 
-<p style="font-size: 1.1em; line-height: 1.6;">A MERN stack application, Exhibito is an art exhibitions website developed as a 4-team group project. It offers full CRUD (Create, Read, Update, Delete) functionality, allowing art houses to manage exhibitions and users to explore and interact with various art events.</p>
+A MERN stack application, Exhibito is an art exhibitions website developed as a 4-team group project. It offers full CRUD (Create, Read, Update, Delete) functionality, allowing art houses to manage exhibitions and users to explore and interact with various art events.
 
 **Technologies Used:** MongoDB, Express JS, React, Node JS, Axios, Tailwind CSS, React Bootstrap, React Router, JWT, BCrypt, CORS.
 
@@ -360,7 +360,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![Rosemont Estates](rosemont_banner.png)](https://github.com/WolfOWI/rosemont-estates)
 
-<p style="font-size: 1.1em; line-height: 1.6;">Rosemont Estates is a real estate platform designed to help users discover luxury dream homes. It features comprehensive property listings with filtering options, detailed property pages, and administrative dashboards for managing listings and client interactions.</p>
+Rosemont Estates is a real estate platform designed to help users discover luxury dream homes. It features comprehensive property listings with filtering options, detailed property pages, and administrative dashboards for managing listings and client interactions.
 
 **Technologies Used:** React, React Router, PHP, MySQL, Node JS, Leaflet Geosearch, Tailwind CSS, Chakra UI, Material UI Icons
 
@@ -374,7 +374,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 [![CHEAPR](cheapr_banner.png)](https://github.com/WolfOWI/cheapr)
 
-<p style="font-size: 1.1em; line-height: 1.6;">CHEAPR is a FERN-stack web application aimed at helping users shop smarter by comparing prices of 4 x South African grocery store products. It provides a platform for users to find the best deals, save money, and plan their shopping efficiently.</p>
+CHEAPR is a FERN-stack web application aimed at helping users shop smarter by comparing prices of 4 x South African grocery store products. It provides a platform for users to find the best deals, save money, and plan their shopping efficiently.
 
 **Technologies Used:** Firebase, Express JS, React, Node JS, React Router, Axios, Tailwind CSS, React Bootstrap
 
