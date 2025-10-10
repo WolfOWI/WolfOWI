@@ -56,73 +56,22 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 <div align="center">
 
-<div style="margin: 20px 0; text-align: left;">
-  <div style="margin-bottom: 15px;">
-    <div style="font-weight: bold; margin-bottom: 5px;">UX Design <span style="color: #666; font-weight: normal;">Strongest</span></div>
-    <div style="background: #4a4a4a; height: 8px; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <div style="background: linear-gradient(90deg,rgb(24, 53, 181) 0%,rgb(110, 54, 165) 100%); height: 100%; width: 0%; border-radius: 10px; animation: slideIn100 2s ease-out forwards;"></div>
-    </div>
-  </div>
-  
-  
-  
-  <div style="margin-bottom: 15px;">
-    <div style="font-weight: bold; margin-bottom: 5px;">Frontend Development <span style="color: #666; font-weight: normal;">Strong</span></div>
-    <div style="background: #4a4a4a; height: 8px; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <div style="background: linear-gradient(90deg,rgb(59, 203, 193) 0%,rgb(233, 214, 86) 100%); height: 100%; width: 0%; border-radius: 10px; animation: slideIn75 2s ease-out 0.4s forwards;"></div>
-    </div>
-  </div>
-  
-  <div style="margin-bottom: 15px;">
-    <div style="font-weight: bold; margin-bottom: 5px;">Backend Development <span style="color: #666; font-weight: normal;">Competent</span></div>
-    <div style="background: #4a4a4a; height: 8px; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <div style="background: linear-gradient(90deg,rgb(255, 168, 54) 0%,rgb(162, 38, 36) 100%); height: 100%; width: 0%; border-radius: 10px; animation: slideIn68 2s ease-out 0.6s forwards;"></div>
-    </div>
-  </div>
-  
-  <div style="margin-bottom: 15px;">
-    <div style="font-weight: bold; margin-bottom: 5px;">Testing <span style="color: #666; font-weight: normal;">Developing</span></div>
-    <div style="background: #4a4a4a; height: 8px; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <div style="background: linear-gradient(90deg,rgb(44, 246, 135) 0%,rgb(194, 255, 81) 100%); height: 100%; width: 0%; border-radius: 10px; animation: slideIn53 2s ease-out 0.8s forwards;"></div>
-    </div>
-  </div>
+**UX Design** - Strongest  
+![100%](https://geps.dev/progress/100)
 
-  <div style="margin-bottom: 15px;">
-    <div style="font-weight: bold; margin-bottom: 5px;">Video Editing <span style="color: #666; font-weight: normal;">Strong</span></div>
-    <div style="background: #4a4a4a; height: 8px; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-      <div style="background: linear-gradient(90deg,rgb(47, 255, 231) 0%,rgb(32, 181, 255) 100%); height: 100%; width: 0%; border-radius: 10px; animation: slideIn83 2s ease-out 0.2s forwards;"></div>
-    </div>
-  </div>
-</div>
+**Frontend Development** - Strong  
+![75%](https://geps.dev/progress/75)
+
+**Backend Development** - Competent  
+![68%](https://geps.dev/progress/68)
+
+**Testing** - Developing  
+![53%](https://geps.dev/progress/53)
+
+**Video Editing** - Strong  
+![83%](https://geps.dev/progress/83)
 
 </div>
-
-<style>
-@keyframes slideIn100 {
-  from { width: 0%; }
-  to { width: 100%; }
-}
-
-@keyframes slideIn83 {
-  from { width: 0%; }
-  to { width: 83%; }
-}
-
-@keyframes slideIn75 {
-  from { width: 0%; }
-  to { width: 75%; }
-}
-
-@keyframes slideIn68 {
-  from { width: 0%; }
-  to { width: 68%; }
-}
-
-@keyframes slideIn53 {
-  from { width: 0%; }
-  to { width: 53%; }
-}
-</style>
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative skill levels, not absolute proficiency</p>
 
