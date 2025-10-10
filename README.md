@@ -64,7 +64,11 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 <p align="start"><img src="https://duolingo-stats-card.vercel.app/api?username=wolfbotha" alt="Duolingo Stats"/></p>
 
-### ✦ Skills ✦
+<br />
+<br />
+<br />
+
+# ✦ Skills ✦
 
 **UX Design** ![100%](https://geps.dev/progress/100) <span style="color: #666;">Strongest</span>
 
@@ -78,9 +82,13 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
 
 <p style="font-size: 12px; color: #666; font-style: italic; margin: 5px 0;">*Percentages represent relative skill levels, not absolute proficiency</p>
 
-### ✦ Tech Stack Experience ✦
+<br />
+<br />
+<br />
 
-#### Front End
+# ✦ Tech Stack Experience ✦
+
+## Front End
 
 <p align="start">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -124,7 +132,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-#### Back End
+## Back End
 
 <p align="start">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
@@ -159,7 +167,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-#### Mobile Development
+## Mobile Development
 
 <p align="start">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
@@ -176,7 +184,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-#### Languages
+## Languages
 
 <p align="start">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -196,7 +204,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-#### State Management
+## State Management
 
 <p align="start">
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
@@ -207,7 +215,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-#### Testing
+## Testing
 
 <p align="start">
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
@@ -224,7 +232,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-#### Desktop Development
+## Desktop Development
 
 <p align="start">
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
@@ -232,7 +240,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-#### Deployment
+## Deployment
 
 <p align="start">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -249,7 +257,7 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-#### Software & Tools
+## Software & Tools
 
 <p align="start">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -266,9 +274,13 @@ let changelog = ["Added Spanish support", "Still fixing sleep schedule 💤"];
   </a>
 </p>
 
-### ✦ 2025 Portfolio Repos ✦
+<br />
+<br />
+<br />
 
-#### [Coriander HR](https://github.com/WolfOWI/coriander) (Semester 1.1 & 1.2)
+# ✦ 2025 Portfolio Repos ✦
+
+## [Coriander HR](https://github.com/WolfOWI/coriander) (Semester 1.1 & 1.2)
 
 [![Coriander HR](coriander_banner.png)](https://github.com/WolfOWI/coriander)
 
@@ -281,7 +293,7 @@ A comprehensive Human Resources Management System built with Electron, React, an
 <br />
 <br />
 
-#### [CoriCore API](https://github.com/WolfOWI/coriander-backend) (Semester 1.1 & 1.2)
+## [CoriCore API](https://github.com/WolfOWI/coriander-backend) (Semester 1.1 & 1.2)
 
 [![CoriCore API](coriCore_banner.png)](https://github.com/WolfOWI/coriander-backend)
 
@@ -294,7 +306,7 @@ The RESTful API backend for the Coriander HR Management System built with ASP.NE
 <br />
 <br />
 
-#### [Nebulog](https://github.com/WolfOWI/nebulog) (Semester 1.3)
+## [Nebulog](https://github.com/WolfOWI/nebulog) (Semester 1.3)
 
 [![Nebulog](nebulog_banner.png)](https://github.com/WolfOWI/nebulog)
 
@@ -307,7 +319,7 @@ A location-based reflection platform where thoughts become part of a digital cos
 <br />
 <br />
 
-#### [QuizQuest](https://github.com/WolfOWI/quizQuest) (Semester 1.4)
+## [QuizQuest](https://github.com/WolfOWI/quizQuest) (Semester 1.4)
 
 [![QuizQuest](quizQuest_banner.png)](https://github.com/WolfOWI/quizQuest)
 
@@ -321,9 +333,9 @@ CURRENTLY IN DEVELOPMENT
 <br />
 <br />
 
-### ✦ 2024 Portfolio Repos ✦
+# ✦ 2024 Portfolio Repos ✦
 
-#### [fruts](https://github.com/WolfOWI/fruts) (Semester 1.1 - 2024)
+## [fruts](https://github.com/WolfOWI/fruts) (Semester 1.1 - 2024)
 
 [![fruts](fruts_banner.png)](https://github.com/WolfOWI/fruts)
 
@@ -338,7 +350,7 @@ A React-based web application that celebrates the love of fruit. It features int
 <br />
 <br />
 
-#### [Exhibito](https://github.com/WolfOWI/exhibito) (Semester 1.2 - 2024)
+## [Exhibito](https://github.com/WolfOWI/exhibito) (Semester 1.2 - 2024)
 
 [![Exhibito](exhibito_banner.png)](https://github.com/WolfOWI/exhibito)
 
@@ -353,7 +365,7 @@ A MERN stack application, Exhibito is an art exhibitions website developed as a 
 <br />
 <br />
 
-#### [Rosemont Estates](https://github.com/WolfOWI/rosemont-estates) (Semester 1.3 - 2024)
+## [Rosemont Estates](https://github.com/WolfOWI/rosemont-estates) (Semester 1.3 - 2024)
 
 [![Rosemont Estates](rosemont_banner.png)](https://github.com/WolfOWI/rosemont-estates)
 
@@ -368,7 +380,7 @@ Rosemont Estates is a real estate platform designed to help users discover luxur
 <br />
 <br />
 
-#### [CHEAPR](https://github.com/WolfOWI/cheapr) (Semester 1.4 - 2024)
+## [CHEAPR](https://github.com/WolfOWI/cheapr) (Semester 1.4 - 2024)
 
 [![CHEAPR](cheapr_banner.png)](https://github.com/WolfOWI/cheapr)
 
@@ -384,7 +396,7 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 <br />
 <br />
 
-### ✦ My Stats ✦
+# ✦ My Stats ✦
 
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=WolfOWI&show_icons=true&theme=tokyonight" alt="Wolf's GitHub Stats" />
@@ -398,7 +410,7 @@ CHEAPR is a FERN-stack web application aimed at helping users shop smarter by co
 <br />
 <br />
 
-### ✦ Get in Touch ✦
+# ✦ Get in Touch ✦
 
 <a href="https://www.linkedin.com/in/wolfbotha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
