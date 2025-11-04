@@ -369,9 +369,9 @@ A location-based reflection platform where thoughts become part of a digital cos
 
 [![QuizQuest](quizQuest_banner.png)](https://github.com/WolfOWI/quizQuest)
 
-CURRENTLY IN DEVELOPMENT
+An AI-powered, mobile quiz RPG where any topic can become an epic medieval adventure. Built as a pixel art fantasy game, QuizQuest uses Google Gemini to generate a structured curriculum of quiz questions from user-chosen subjects, then turns them into turn-based battles where correct answers deal damage, earn XP for levelling, unlock new stories, and earn gold for unlocking character skins. With a rich progression system, in-depth stats, and an economy, learners stay motivated by making self-study feel like playing an RPG.
 
-**Technologies Used:** React Native, Expo, TypeScript (IN PROGRESS)
+**Technologies Used:** React Native, Expo, TypeScript, NativeWind, Firebase, Firebase Auth, Firestore, Firebase AI Logic (Google Gemini), Zustand, React Hook Form, React Native Reanimated, React Native Sprite Sheet, date-fns, Numeral.js
 
 [**View Repository**](https://github.com/WolfOWI/quizQuest)
 
