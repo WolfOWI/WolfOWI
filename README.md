@@ -373,7 +373,7 @@ An AI-powered, mobile quiz RPG where any topic can become an epic medieval adven
 
 **Technologies Used:** React Native, Expo, TypeScript, NativeWind, Firebase, Firebase Auth, Firestore, Firebase AI Logic (Google Gemini), Zustand, React Hook Form, React Native Reanimated, React Native Sprite Sheet, date-fns, Numeral.js
 
-[**View Repository**](https://github.com/WolfOWI/quizQuest)
+[**Repo Private**](https://github.com/WolfOWI/quizQuest)
 
 <br />
 <br />
